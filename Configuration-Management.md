@@ -5,3 +5,4 @@ Second is the SRS document.
 [Class5_StandardSRSIEEE (1).pdf](https://github.com/AlinaFahim/SE2022-109120-/files/8556835/Class5_StandardSRSIEEE.1.pdf)
 
 Third document is the PMP document.
+[smallPlanCharter (1).pdf](https://github.com/AlinaFahim/SE2022-109120-/files/8556865/smallPlanCharter.1.pdf)
